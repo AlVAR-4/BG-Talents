@@ -16,7 +16,7 @@ You can download and use it. You cannot modify, decompile, redistribute modified
 
 Get the latest version from the Releases page:
 https://github.com/AlVAR-4/BG-Talents/releases
-
+ 
 ---
 
 ## What it does
