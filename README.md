@@ -106,7 +106,7 @@ Submit pull requests
 🔗 Links
 GitHub: https://github.com/AlVAR-4/BG-Talents
 
-Issue Tracker: https://github.com/AlVAR-4/bgtalents/issues
+Issue Tracker: https://github.com/AlVAR-4/BG-Talents/issues/5
 
 CurseForge: Coming soon!
 
