@@ -1,28 +1,5 @@
 BG Talents is a Minecraft Forge mod that adds a fully customizable talent system with 12 unique abilities to enhance your combat experience. Collect Soul Stones by defeating monsters, unlock powerful talents, and become the ultimate warrior!
 
-📖 Table of Contents
-Features
-
-Talent List
-
-How to Play
-
-Commands
-
-Installation
-
-Requirements
-
-Languages
-
-Contributing
-
-Links
-
-Credits
-
-License
-
 ✨ Features
 12 Unique Talents - 8 Attack + 4 Defense abilities
 
@@ -58,6 +35,7 @@ Bedrock Shield	Magical shield reflecting projectiles	20% chance, 50% reduction
 Health	Increases maximum health	+6.25 hearts
 Tough	Reduces all incoming damage	20% reduction
 Gold-Blood	Generates golden hearts when hurt	20% chance, 2-3 hearts
+
 🎮 How to Play
 1. Get Soul Stones
 Kill Zombies, Skeletons, Spiders, and Creepers
