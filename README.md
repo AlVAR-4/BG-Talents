@@ -104,7 +104,7 @@ Suggest new features
 Submit pull requests
 
 🔗 Links
-GitHub: https://github.com/AlVAR-4/bgtalents
+GitHub: https://github.com/AlVAR-4/BG-Talents
 
 Issue Tracker: https://github.com/AlVAR-4/bgtalents/issues
 
