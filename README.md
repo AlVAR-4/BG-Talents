@@ -1,99 +1,81 @@
-# BG Talents
+BG Talents - CurseForge Summary
+Short Description
+BG Talents adds an RPG talent system to Minecraft with 12 unique abilities that enhance your combat. Collect Soul Stones by killing monsters and unlock your true power!
 
-Forge mod for Minecraft 1.20.1 that adds an RPG-style talent system.
+Features
+8 Attack Talents:
 
----
+Lifesteal - Steals life based on damage dealt
 
-## License
+Bloody Blade - Weak life steal
 
-This mod is All Rights Reserved.
+Ice - Slows enemies by 30%
 
-You can download and use it. You cannot modify, decompile, redistribute modified versions, or use it commercially.
+Blazing - Sets enemies on fire for 3 seconds
 
----
+Strategic Strike - Chance to trigger critical strike
 
-## Download
+Critical Hit - Increases critical damage
 
-Get the latest version from the Releases page:
-https://github.com/AlVAR-4/BG-Talents/releases
+Thunder - Summons lightning (5 damage, ignores armor)
 
----
+Storm - 3 hits in 4s → Speed +1-20%
 
-## What it does
+Berserker - Less health = More damage (up to +100%!)
 
-The mod adds 11 talents split into two categories: Attack and Defense.
+4 Defense Talents:
 
-You unlock and upgrade them using Soul Stones, which drop from zombies, skeletons, spiders, and creepers with a 50% chance (1-5 stones per drop).
+Bedrock Shield - Reflects projectiles
 
-Press U to open the talent menu.
+Health - Increases max health
 
----
+Tough - Reduces all incoming damage
 
-## Attack Talents (7)
+Gold-Blood - Generates golden hearts when hurt
 
-1. Lifesteal – Steal up to 30% of damage dealt as health
-2. Bloody Blade – Steal up to 5% of damage dealt as health
-3. Ice – 30% chance to slow enemies by 30%
-4. Blazing – 30% chance to set enemies on fire for 3 seconds
-5. Attack Weakness – 20% chance to trigger a critical hit
-6. Critical Hit – Critical hits deal up to 50% bonus damage
-7. Thunder – 30% chance to strike with lightning, dealing 5 damage (ignores armor)
+How to Play
+Kill mobs (Zombies, Skeletons, Spiders, Creepers) → get Soul Stones
 
----
+Press U (configurable) → open the talents menu
 
-## Defense Talents (4)
+Unlock & Upgrade talents using Soul Stones
 
-1. Bedrock – 20% chance to block damage, reducing it by 50%
-2. Health – Increases max health by up to 6.25 hearts
-3. Tough – 20% universal damage resistance
-4. Gold-Blood – Chance to generate absorption hearts when hit
+Activate/Deactivate talents by clicking their name
 
-Gold-Blood details:
-- Levels 1-5: 2 hearts, 10s cooldown
-- Levels 6-9: 2 hearts, cooldown scales from 9s to 6s
-- Levels 10-14: 2 hearts, 5s cooldown
-- Levels 15-20: 4 hearts, 5s cooldown
+Reset talents to get your Soul Stones back (as Virtual Balance)
 
----
+Materialize your virtual balance into physical Soul Stones
 
-## Soul Stone Costs
+Commands
+/bgtalents give <amount> - Get Soul Stones
 
-- Unlock: 25 or 50 stones
-- Upgrade levels 1-10: 20 stones each
-- Upgrade levels 11-20: 30 stones each
+/bgtalents reset attack - Reset attack talents
 
-If you reset a talent, the spent stones are returned as virtual balance. You can materialize them back into your inventory anytime.
+/bgtalents reset defense - Reset defense talents
 
----
+/bgtalents admin wipe <player> - Reset ALL with no refund
 
-## Installation
+/bgtalents admin maxout <player> - MAX ALL with refund
 
-1. Download the .jar file from Releases
-2. Put it in your mods folder
-3. Launch Minecraft with Forge 1.20.1
-4. Press U to open the talent menu
+/bgtalents admin maxout-norefund <player> - MAX ALL no refund
 
----
+/bgtalents pvp - Toggle PvP 1.8 mode
 
-## Commands
+Requirements
+Minecraft: 1.20.1
 
-- /bgtalents give <amount> – Gives Soul Stones
-- /bgtalents reset attack – Resets attack talents (with refund)
-- /bgtalents reset defense – Resets defense talents (with refund)
-- /bgtalents admin wipe <player> – Resets all talents (no refund, OP)
-- /bgtalents admin maxout <player> – Maxes all talents (with refund, OP)
-- /bgtalents admin maxout-norefund <player> – Maxes all talents (no refund, OP)
+Forge: 47.4.10+
 
----
+Dependencies: None (standalone mod)
 
-## Requirements
+Languages
+English (Complete)
 
-- Minecraft 1.20.1
-- Forge 47.4.10 or later
-- No other dependencies
+Spanish (Complete)
 
----
+Spanish (MX) (Complete)
 
-## Building from source
+Links
+GitHub: https://github.com/AlVAR-4
 
-You can view the code but modification is not allowed.
+Issue Tracker: https://github.com/AlVAR-4
