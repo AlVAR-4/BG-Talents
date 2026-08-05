@@ -108,5 +108,5 @@ GitHub: https://github.com/AlVAR-4/BG-Talents
 
 Issue Tracker: https://github.com/AlVAR-4/BG-Talents/issues/5
 
-CurseForge: Coming soon!
+CurseForge:  https://www.curseforge.com/minecraft/mc-mods/bgtalents
 
