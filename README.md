@@ -88,7 +88,7 @@ Enjoy! Press U to open the talents menu
 Requirement	Version
 Minecraft	1.20.1
 Forge	47.4.10+
-Dependencies	None (standalone mod)
+Dependencies:	Fabric API (If use Fabric)
 🌐 Languages
 Language	Status
 🇺🇸 English	✅ Complete
