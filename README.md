@@ -16,7 +16,7 @@ PvP 1.8 Mode - Command to disable attack cooldown
 Multi-language Support - English & Spanish
 
 Custom Sounds & Particles - Immersive feedback for every ability
-
+___
 ⚔️ Talent List
 Attack Talents (8)
 Talent	Effect	Max Bonus
@@ -35,7 +35,7 @@ Bedrock Shield	Magical shield reflecting projectiles	20% chance, 50% reduction
 Health	Increases maximum health	+6.25 hearts
 Tough	Reduces all incoming damage	20% reduction
 Gold-Blood	Generates golden hearts when hurt	20% chance, 2-3 hearts
----
+___
 🎮 How to Play
 1. Get Soul Stones
 Kill Zombies, Skeletons, Spiders, and Creepers
@@ -65,7 +65,7 @@ Stones returned as Virtual Balance
 
 5. Materialize Balance
 Convert Virtual Balance into physical Soul Stones in your inventory
----
+___
 ⚡ Commands
 Command	Description	Permission
 /bgtalents give <amount>	Gives Soul Stones to the player	None
@@ -75,7 +75,7 @@ Command	Description	Permission
 /bgtalents admin maxout <player>	MAX ALL talents WITH refund	OP Level 2
 /bgtalents admin maxout-norefund <player>	MAX ALL talents with NO refund	OP Level 2
 /bgtalents pvp	Toggles PvP 1.8 mode (no attack cooldown)	None
----
+___
 
 📥 Installation
 Download the latest .jar file from Releases
@@ -85,7 +85,7 @@ Place it in your .minecraft/mods/ folder
 Launch Minecraft with Forge 47.4.10+
 
 Enjoy! Press U to open the talents menu
-
+___
 🔧 Requirements
 Requirement	Version
 Minecraft	1.20.1
@@ -104,7 +104,7 @@ Report bugs via Issues
 Suggest new features
 
 Submit pull requests
-
+___
 🔗 Links
 GitHub: https://github.com/AlVAR-4/BG-Talents
 
