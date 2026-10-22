@@ -1,7 +1,5 @@
 **BG Talents** is a Minecraft **Fabric** mod that adds a fully customizable talent system with 12 unique abilities to enhance your combat experience. Collect Soul Stones by defeating monsters, unlock powerful talents, and become the ultimate warrior!
 
-> **Note:** This version is adapted for **Fabric**. It requires **Fabric API** as an additional mandatory mod dependency in order to work properly.
-
 ## ✨ Features
 
 - **12 Unique Talents** — 8 Attack + 4 Defense abilities
