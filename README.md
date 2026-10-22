@@ -35,7 +35,7 @@ Bedrock Shield	Magical shield reflecting projectiles	20% chance, 50% reduction
 Health	Increases maximum health	+6.25 hearts
 Tough	Reduces all incoming damage	20% reduction
 Gold-Blood	Generates golden hearts when hurt	20% chance, 2-3 hearts
-
+---
 🎮 How to Play
 1. Get Soul Stones
 Kill Zombies, Skeletons, Spiders, and Creepers
@@ -65,7 +65,7 @@ Stones returned as Virtual Balance
 
 5. Materialize Balance
 Convert Virtual Balance into physical Soul Stones in your inventory
-
+---
 ⚡ Commands
 Command	Description	Permission
 /bgtalents give <amount>	Gives Soul Stones to the player	None
@@ -75,6 +75,8 @@ Command	Description	Permission
 /bgtalents admin maxout <player>	MAX ALL talents WITH refund	OP Level 2
 /bgtalents admin maxout-norefund <player>	MAX ALL talents with NO refund	OP Level 2
 /bgtalents pvp	Toggles PvP 1.8 mode (no attack cooldown)	None
+---
+
 📥 Installation
 Download the latest .jar file from Releases
 
