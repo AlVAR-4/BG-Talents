@@ -96,6 +96,7 @@ Language	Status
 🇺🇸 English	✅ Complete
 🇪🇸 Spanish	✅ Complete
 🇲🇽 Spanish (MX)	✅ Complete
+🇨🇳 Chinese (Simplified) ✅ Complete
 🤝 Contributing
 Contributions are welcome! Feel free to:
 
